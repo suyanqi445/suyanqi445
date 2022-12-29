@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yanqi Su
 - 👀 I’m interested in rl_learning
-- 🌱 I’m currently learning Lstm-attenton DDPG
+- 🌱 I’m currently learning Lstm-attention DDPG
 - 💞️ I’m looking to collaborate on driving behavior analysis and prediction、 vehicle active safety.
 - 📫 How to reach me :1421835430@qq.com
 
